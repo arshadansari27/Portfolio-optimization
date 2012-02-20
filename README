@@ -1,0 +1,11 @@
+Portfolio Optimization.
+
+Currently it generates distribution of weights to be used for the calculation of optimal return/risk ratio for a combination of the set of stocks.
+
+What needs to be added?
+1. A front end to show the graph representing optimal ratio and for the user to provide the stocks, for which the optimal portfolio is to be generated.
+2. An api to pull the stocks information that includes its associated risk and return over the period of 1 year or more. If there are not good services 
+available to give the data, plan will swtich to calculate it ourselves using the historical data that is available online.
+
+More things will be added.. Right now its just a proof of concept.
+
